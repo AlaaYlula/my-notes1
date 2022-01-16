@@ -1,7 +1,7 @@
 # my-notes1
 # 
 My Name is Ala' Alwazani  
-I graduated from JUST University with bachelor degree of Network Enginnering and security on 2014.  
+I graduated from JUST University with bachelor degree of Network Enginnering and security in 2014.  
 
 # 
 Every devloper may faces some issues during programe the projects or maybe appear after ayear or more.  
