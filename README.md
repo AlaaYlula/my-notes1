@@ -49,7 +49,7 @@ So there is some kye points the devloper must master.
 >**12. Assumptions**    
 >>the devloper must code on what he sure not on he think will happen.  
 >
->>**13. Stop Reinventing**    
+>**13. Stop Reinventing**    
 >
 >**14. Rsistance**    
 >>Always reject adding more code until you are sure the software needs this changes.  
