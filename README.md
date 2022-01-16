@@ -14,8 +14,8 @@ So there is some kye points the devloper must master.
 >**2. The Goals of Software Design**    
 >>The software must be design in easy way so it can be helpful for the devloper and the user.  
 >
->>**3. (Mis)understanding**  
->The devloper must understand what he work with and what he wants to do.  
+>**3. (Mis)understanding**  
+>>The devloper must understand what he work with and what he wants to do.  
 
 **4. Simlicity**    
 The good devloper whose make the code as simple as he can so any one can understand it.  
