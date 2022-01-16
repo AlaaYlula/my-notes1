@@ -43,39 +43,52 @@ So there is some kye points the devloper must master.
 >>To make the coding easier you must
 >>- Start small, improve it, then extend.  
 >
-**11. Predictions**    
-Don't be predict the future just be generic in what your software need to be.  
-**12. Assumptions**    
-the devloper must code on what he sure not on he think will happen.  
-**13. Stop Reinventing**    
-**14. Rsistance**    
-Always reject adding more code until you are sure the software needs this changes.  
-**15. Automation**    
-**16. Code measurement**    
-The benefit of the code is not measured by its size.  
-**17. Productivity**    
-You must keep your code as small as possible.  
-**18. Testing**    
-You should test you code in early stage.  
-**19. (Under)Estimation**    
-**20. Running Away From Rewriting**    
-Sometimes the devloper think rewriting the code is easier then read it but this all delusion.  
-**21. Documentation and Commenting**    
-The documentation is important so the a new devloper can understand the software as a whole.  
+>**11. Predictions**    
+>>Don't be predict the future just be generic in what your software need to be.  
+>
+>**12. Assumptions**    
+>>the devloper must code on what he sure not on he think will happen.  
+>
+>>**13. Stop Reinventing**    
+>
+>**14. Rsistance**    
+>>Always reject adding more code until you are sure the software needs this changes.  
+>
+>**15. Automation**    
+>
+>**16. Code measurement**    
+>>The benefit of the code is not measured by its size.  
+>
+>**17. Productivity**    
+>>You must keep your code as small as possible.  
+>
+>**18. Testing**    
+>>You should test you code in early stage.  
+>
+>**19. (Under)Estimation**    
+>
+>**20. Running Away From Rewriting**    
+>>Sometimes the devloper think rewriting the code is easier then read it but this all delusion.  
+>
+>**21. Documentation and Commenting**    
+>>The documentation is important so the a new devloper can understand the software as a whole.  
 We need the comments when the code is complex.  
-**22. Picking Technologies**    
-There is some factors you should consider before you start using technology:    
-* Is there active devlopment behind it?    
-* Will it continue to be maintained?    
-* How easy is it to switch away from?    
-* What does the community say about it?  
- 
-**23. Self-Development**    
-Keep reading and updating your knowloge.  
-**24. Don't be a hero**    
-Don't hesitate to ask for help when you need it.  
-**25. Don't Ask Questions..Ask for Help**    
-When you have any problem just try to find the solution by your self read, search and when you tried every thing now is the best time to seek advice.  
+>
+>**22. Picking Technologies**    
+>>There is some factors you should consider before you start using technology:    
+>>* Is there active devlopment behind it?    
+>>* Will it continue to be maintained?    
+>>* How easy is it to switch away from?    
+>>* What does the community say about it?  
+>
+>**23. Self-Development**    
+>>Keep reading and updating your knowloge.  
+>
+>**24. Don't be a hero**    
+>>Don't hesitate to ask for help when you need it.  
+>
+>**25. Don't Ask Questions..Ask for Help**    
+>>When you have any problem just try to find the solution by your self read, search and when you tried every thing now is the best time to seek advice.  
 
 
 
