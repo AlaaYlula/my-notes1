@@ -19,6 +19,7 @@ So there is some kye points the devloper must master.
 >
 >**4. Simlicity**    
 >>The good devloper whose make the code as simple as he can so any one can understand it.  
+>
 >**5. Complexity**    
 >>As we said before the devloper must know what he wants and make the every part of the code simple.  
 >
