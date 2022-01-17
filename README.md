@@ -1,5 +1,5 @@
 # my-notes1
-# 
+# Update
 My Name is Ala' Alwazani  
 I graduated from JUST University with bachelor degree of Network Enginnering and security in 2014.  
 
